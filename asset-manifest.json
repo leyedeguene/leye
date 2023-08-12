@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/leye/static/css/main.6bb1e45b.css",
+    "main.js": "/leye/static/js/main.cbab05f7.js",
+    "static/media/int.png": "/leye/static/media/int.8ff3efdc8d946ce14e3c.png",
+    "static/media/infra.png": "/leye/static/media/infra.b2f8fe65f7c628012d40.png",
+    "static/media/actu2.png": "/leye/static/media/actu2.46805cecf20f24440b82.png",
+    "static/media/img1.jpeg": "/leye/static/media/img1.236e9fa899067890d0ee.jpeg",
+    "static/media/nouvelle-formation.jpg": "/leye/static/media/nouvelle-formation.93dd8bf25d8ccfa12f73.jpg",
+    "static/media/RI.jpg": "/leye/static/media/RI.2334a15203205f79b00f.jpg",
+    "static/media/open-source.png": "/leye/static/media/open-source.e6bb96abe9f8e19b0c40.png",
+    "static/media/actu3.jpg": "/leye/static/media/actu3.d373dfab3c8456c6795d.jpg",
+    "static/media/finf.png": "/leye/static/media/finf.77fef0a29686dd8cae43.png",
+    "static/media/HAYO.jpg": "/leye/static/media/HAYO.72bdb450178189630c62.jpg",
+    "static/media/devopss.png": "/leye/static/media/devopss.74c0cff2db3aa8ef1568.png",
+    "static/media/LPI.jpg": "/leye/static/media/LPI.de140b4ad5b8717d5876.jpg",
+    "static/media/logo-RTN-Dakar.jpg": "/leye/static/media/logo-RTN-Dakar.34a41856cadf34492ddd.jpg",
+    "static/media/CCNA.jpg": "/leye/static/media/CCNA.522c93c7befd916d8e9f.jpg",
+    "static/media/people-input.jpg": "/leye/static/media/people-input.de403e61ab10e2201388.jpg",
+    "static/media/actu1.jpg": "/leye/static/media/actu1.6104f91c914a3b04a9a8.jpg",
+    "static/media/actu4.jpg": "/leye/static/media/actu4.f67d55ae5223bbc0115b.jpg",
+    "index.html": "/leye/index.html",
+    "main.6bb1e45b.css.map": "/leye/static/css/main.6bb1e45b.css.map",
+    "main.cbab05f7.js.map": "/leye/static/js/main.cbab05f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bb1e45b.css",
+    "static/js/main.cbab05f7.js"
+  ]
+}
